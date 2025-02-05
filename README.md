@@ -1,18 +1,20 @@
 # Eigenlayer Developer Quickstart
-⭐ Star for easy reference
 
 ![Alt text](/images/AVS_Categories.jpeg)
 ## A curated page for getting started building in the Eigenlayer ecosystem
 
 # Building AVSs 🔨
 Inspiration
-[The EigenLayer Universe: Ideas for Building the Next 15 Unicorns](https://www.blog.eigenlayer.xyz/eigenlayer-universe-15-unicorn-ideas/)
+- [The EigenLayer Universe: Ideas for Building the Next 15 Unicorns](https://www.blog.eigenlayer.xyz/eigenlayer-universe-15-unicorn-ideas/)
 - [AVS Reference Sheet](https://docs.google.com/spreadsheets/d/1kk5SSoFfQ9DEiBYbn7eLhvxipp4ls9FZ/edit?gid=1999268996#gid=1999268996)
 
+Documentation
+- [Build Your Own AVS](https://docs.eigenlayer.xyz/developers/how-to-build-an-avs)
 
-Build your Own
+Example AVS Quickstarts
 - [Hello World AVS](https://github.com/Layr-Labs/hello-world-avs)
-- [Incredible Squaring AVS](https://github.com/Layr-Labs/incredible-squaring-avs)
+- [Incredible Squaring AVS (Go)](https://github.com/Layr-Labs/incredible-squaring-avs)
+- [Incredible Squaring AVS (Rust)](https://github.com/Layr-Labs/incredible-squaring-avs-rs)
 
 **Resources:**
 - [AVS Developer Guide](https://docs.eigenlayer.xyz/developers/avs-developer-guide)
