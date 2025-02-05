@@ -39,14 +39,8 @@ For details click [here](https://docs.eigenlayer.xyz/eigenlayer/resources/infini
 - [Rust SDK 🦀](https://github.com/Layr-Labs/eigensdk-rs)
 - [Go SDK](https://github.com/Layr-Labs/eigensdk-go)
 
-## Developer Infrastructure 🏗️
-### Othentic
-[Othentic](https://www.othentic.xyz/) - Othentic Stack is a self-deploy infrastructure to build distributed systems, highly configurable and versatile in all aspects of Actively Validated Services (AVS) development.
-- [Documentation](https://docs.othentic.xyz/main)
-
-### Altlayer
-- [Documentation](https://docs.altlayer.io/altlayer-documentation)
-- [Wizard](https://wizard.altlayer.io/login) - AVS as a Service, spin up an AVS quickly
+### Developer Infrastructure 🏗️
+- [Developer Resources -> Developer Tooling Partners](https://github.com/Layr-Labs/incredible-squaring-avs-rs): Othentic, Layer, AltLayer Wizard, Gadget
 
 # Community EigenDA SDK
 **🚧 WIP 🚧**
