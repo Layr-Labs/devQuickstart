@@ -10,21 +10,15 @@ Inspiration
 
 Documentation
 - [Build Your Own AVS](https://docs.eigenlayer.xyz/developers/how-to-build-an-avs)
+- [Hello World quickstart](https://docs.eigenlayer.xyz/developers/quickstart)
 
-Example AVS Quickstarts
+Example AVSs
 - [Hello World AVS](https://github.com/Layr-Labs/hello-world-avs)
 - [Incredible Squaring AVS (Go)](https://github.com/Layr-Labs/incredible-squaring-avs)
 - [Incredible Squaring AVS (Rust)](https://github.com/Layr-Labs/incredible-squaring-avs-rs)
 
-**Resources:**
-- [AVS Developer Guide](https://docs.eigenlayer.xyz/developers/avs-developer-guide)
+**More Resources:**
 - [Awesome AVS](https://github.com/Layr-Labs/awesome-avs) - Curated Repo for AVS references
-
-# Infinite Hackathon ♾️
-**Restake your hackathon submission**
-
-Up to $7,500 of bounties for developers who build projects at hackathons that - build on Eigenlayer as an AVS, create an app using AVSs, building on top of rollups using EigenDA.
-For details click [here](https://docs.eigenlayer.xyz/eigenlayer/resources/infinite-hackathon)
 
 # Learning Eigenlayer 📚
 ## Docs
@@ -35,14 +29,15 @@ For details click [here](https://docs.eigenlayer.xyz/eigenlayer/resources/infini
 [EigenDA Documentation](https://docs.eigenda.xyz/overview)
 
 # Developer Tooling 🛠️
+
 ### EigenSDKs
 - [Rust SDK 🦀](https://github.com/Layr-Labs/eigensdk-rs)
 - [Go SDK](https://github.com/Layr-Labs/eigensdk-go)
 
 ### Developer Infrastructure 🏗️
-- [Developer Resources -> Developer Tooling Partners](https://github.com/Layr-Labs/incredible-squaring-avs-rs): Othentic, Layer, AltLayer Wizard, Gadget
+- [Developer Resources -> Developer Tooling Partners](https://docs.eigenlayer.xyz/developers/resources#developer-tooling): Othentic, Layer, AltLayer Wizard, Gadget
 
-# Community EigenDA SDK
+### Community EigenDA SDK
 **🚧 WIP 🚧**
 [eigenblob](https://github.com/jbrower95/eigenblob) - May be a useful reference for interacting with EigenDA in TS
 
@@ -54,3 +49,9 @@ For details click [here](https://docs.eigenlayer.xyz/eigenlayer/resources/infini
 **You Could've Invented Eigenlayer (YCIE)**
 - [Article](https://blog.eigenlayer.xyz/ycie/)
 - [Video](https://youtube.com/watch?v=oYrsbfGIFeU)
+
+# Infinite Hackathon ♾️
+**Restake your hackathon submission**
+
+Up to $7,500 of bounties for developers who build projects at hackathons that - build on Eigenlayer as an AVS, create an app using AVSs, building on top of rollups using EigenDA.
+For details click [here](https://docs.eigenlayer.xyz/eigenlayer/resources/infinite-hackathon)
