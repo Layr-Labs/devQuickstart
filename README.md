@@ -3,6 +3,8 @@
 ![Alt text](/images/AVS_Categories.jpeg)
 ## A curated page for getting started building in the Eigenlayer ecosystem
 
+# Building AVSs 🔨
+
 There are 3 main ways you can build on EigenLayer.
 
 1. [Build](https://docs.eigenlayer.xyz/developers/Concepts/avs-developer-guide) your own AVS (Autonomous Verifiable Service)
@@ -10,8 +12,6 @@ There are 3 main ways you can build on EigenLayer.
 3. Use an AVS library or abstraction like [Othentic](https://www.othentic.xyz/), [Layer](https://www.layer.xyz/), [AltLayer](https://www.altlayer.io/), or [Tangle](https://docs.tangle.tools/developers/eigenlayer-avs/overview).
 
 > To learn more about the 3 different ways you can build on EigenLayer, check out [this video](https://www.youtube.com/watch?v=spTi45zV8e4).
-
-# Building AVSs 🔨
 
 Inspiration
 - [The EigenLayer Universe: Ideas for Building the Next 15 Unicorns](https://www.blog.eigenlayer.xyz/eigenlayer-universe-15-unicorn-ideas/)
