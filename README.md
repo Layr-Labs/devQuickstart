@@ -50,6 +50,10 @@ Example AVSs
 **🚧 WIP 🚧**
 [eigenblob](https://github.com/jbrower95/eigenblob) - May be a useful reference for interacting with EigenDA in TS
 
+### AI starters and SDKs
+- [eigenai-quickstart](https://github.com/Layr-Labs/ai-quickstart)
+- [Eigen Agentkit](https://github.com/Layr-Labs/eigen-agentkit)
+
 # Repos
 - [Core Contracts](https://github.com/Layr-Labs/eigenlayer-contracts/tree/dev/docs)
 - [Eigen Middleware](https://github.com/Layr-Labs/eigenlayer-middleware)
