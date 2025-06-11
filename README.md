@@ -7,11 +7,10 @@
 
 There are 3 main ways you can build on EigenLayer.
 
-1. [Build](https://docs.eigenlayer.xyz/developers/Concepts/avs-developer-guide) your own AVS (Autonomous Verifiable Service)
+1. [Build](https://docs.eigenlayer.xyz/developers/Concepts/avs-developer-guide) your own AVS (Autonomous Verifiable Service) directly on the EigenLayer protocol, leveraging one of the example AVSs below.
 2. Use an existing [AVS](https://avsecosystem.eigenlayer.xyz/)
-3. Use an AVS library or abstraction like [Othentic](https://www.othentic.xyz/), [Layer](https://www.layer.xyz/), [AltLayer](https://www.altlayer.io/), or [Tangle](https://docs.tangle.tools/developers/eigenlayer-avs/overview).
-
-> To learn more about the 3 different ways you can build on EigenLayer, check out [this video](https://www.youtube.com/watch?v=spTi45zV8e4).
+3. Use an AVS partner like [Othentic](https://docs.othentic.xyz/), [WAVS](https://docs.wavs.xyz/)
+4. Use DevKit (currently in Alpha preview stage) to quickly prototype your AVS idea: https://github.com/Layr-Labs/devkit-cli?tab=readme-ov-file
 
 Inspiration
 - [The EigenLayer Universe: Ideas for Building the Next 15 Unicorns](https://www.blog.eigenlayer.xyz/eigenlayer-universe-15-unicorn-ideas/)
@@ -54,17 +53,18 @@ Example AVSs
 - [eigenai-quickstart](https://github.com/Layr-Labs/ai-quickstart)
 - [Eigen Agentkit](https://github.com/Layr-Labs/eigen-agentkit)
 
+### EigenLayer Studio: No Code AVS Builder
+- [EigenLayer Studio web app](https://studio.eigenlayer.xyz/)
+- [EigenLayer Studio Github repo](https://github.com/Layr-Labs/studio)
+
 # Repos
 - [Core Contracts](https://github.com/Layr-Labs/eigenlayer-contracts/tree/dev/docs)
 - [Eigen Middleware](https://github.com/Layr-Labs/eigenlayer-middleware)
+
+
 
 ## Protocol
 **You Could've Invented Eigenlayer (YCIE)**
 - [Article](https://blog.eigenlayer.xyz/ycie/)
 - [Video](https://youtube.com/watch?v=oYrsbfGIFeU)
 
-# Infinite Hackathon ♾️
-**Restake your hackathon submission**
-
-Up to $7,500 of bounties for developers who build projects at hackathons that - build on Eigenlayer as an AVS, create an app using AVSs, building on top of rollups using EigenDA.
-For details click [here](https://docs.eigenlayer.xyz/eigenlayer/resources/infinite-hackathon)
