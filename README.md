@@ -45,10 +45,6 @@ Example AVSs
 ### Developer Infrastructure 🏗️
 - [Developer Resources -> Developer Tooling Partners](https://docs.eigenlayer.xyz/developers/resources#developer-tooling): Othentic, Layer, AltLayer Wizard, Gadget
 
-### Community EigenDA SDK
-**🚧 WIP 🚧**
-[eigenblob](https://github.com/jbrower95/eigenblob) - May be a useful reference for interacting with EigenDA in TS
-
 ### AI starters and SDKs
 - [eigenai-quickstart](https://github.com/Layr-Labs/ai-quickstart)
 - [Eigen Agentkit](https://github.com/Layr-Labs/eigen-agentkit)
